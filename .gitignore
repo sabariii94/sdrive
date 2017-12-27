@@ -2,6 +2,11 @@
 logs
 *.log
 
+#temp files on development
+./idea/
+package.json
+.idea/
+
 # Runtime data
 pids
 *.pid
